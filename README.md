@@ -1,1 +1,1 @@
-# miniTranslator
+# miniTranslatorJava
